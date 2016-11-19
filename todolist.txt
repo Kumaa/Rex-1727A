@@ -1,0 +1,12 @@
+TO DO LIST
+
+1. Fix the build on the wheels.
+
+2. Ask Kevin for help w/ drive until I (Tomer) get there.
+	- test the drive while there then show Kevin then fix code to make sure it goes forward
+
+3. Work on sketches for design for the clippers.
+
+4. Try to start building
+
+11/19/2016
